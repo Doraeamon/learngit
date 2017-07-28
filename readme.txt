@@ -1,1 +1,1 @@
-hi,I am a new one.
+Creating a new branch is quick.
